@@ -17,4 +17,8 @@ Google Form  [Download Here](https://docs.google.com/spreadsheets/d/1slHSvA-UtOk
 ## Tools Utilized
 - Ms Excel for Data Cleaning
 - Microsoft Power BI
+
+## Data Visualization
+![](Snap1.png)
+![](Snap2.png)
   
